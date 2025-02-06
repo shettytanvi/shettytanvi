@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm Tanvi!👋</h1>
 <h3 align="center">
-  I'm a aspiring Business Analyst. Graduate from University of East Anglia, Norwich.
+   Graduate from University of East Anglia, Norwich.
 </h3>
 
 ### 😄 Pronouns
