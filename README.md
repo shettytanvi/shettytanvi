@@ -17,7 +17,7 @@ She/Her
 
 💡 If you’re working on IT service management, insurance technology, or operational analytics, let’s connect and exchange ideas!
 
-Feel free to hit me up or get in touch if any of these ideas interest you, we'd love to work together!
+Feel free to hit me up or get in touch if any of these ideas interest you, I'd love to work together!
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
