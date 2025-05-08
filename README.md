@@ -10,12 +10,12 @@ She/Her
 ### 🌱 What do I do and What have I done? 
 
 - I hold a Master’s in Business Analytics and Management from [@UEA](https://www.uea.ac.uk/), with a strong foundation in data analysis, business intelligence, and IT service management.
-- Previously, I worked as a Senior Technical Operations Associate at  [@IBM](https://www.ibm.com/in-en) , where I provided ITIL-aligned support, troubleshooting, and business operations optimisation. My role involved resolving system issues, collaborating with cross-functional teams, and enhancing service efficiency.
-- Lately, I’ve been exploring data-driven decision-making and financial services, analytics, and process improvement.
+- Previously, I worked as a Senior Technical Operations Associate at  [@IBM](https://www.ibm.com/in-en) , where I provided ITIL-aligned support and business operations optimisation. My role involved resolving system issues, collaborating with cross-functional teams, and enhancing service efficiency.
+- Recently, I’ve been focusing on data-driven decision-making, visualisation, and analytics, exploring how platform like Power BI can provide actionable insights and improve decision-making. I have a deep understanding of transforming and visualising data to create user-friendly dashboards that improve business processes and drive efficiencies.
   
 🏆 Recipient of the Best Employee 2021 at  [@IBM](https://www.ibm.com/in-en)  – Recognised for my problem-solving skills, efficiency, client-focused approach and receiving highest number of CSAT's.
 
-💡 If you’re working on IT service management, insurance technology, or operational analytics, let’s connect and exchange ideas!
+💡 If you’re working on data visualisation, business intelligence, or process improvement, let’s connect and exchange ideas! I’m passionate about building self-serve dashboards, optimising reporting systems, and enhancing data-driven decision-making.
 
 Feel free to hit me up or get in touch if any of these ideas interest you, I'd love to work together!
 
